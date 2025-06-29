@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishwas Sharma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on AI/ML and Blockchain related projects
 - 📫 How to reach me : www.linkedin.com/in/vishwassharma28
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a certified bathroom singer🎶🎤
